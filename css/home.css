@@ -1,0 +1,24 @@
+.entrance {
+    background: white;
+    text-align: center;
+    height: 175px;
+    margin: 10px;
+    padding: 70px;
+}
+
+.entrance:hover {
+    background: transparent;
+    -webkit-box-shadow: -1px 3px 7px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 3px 7px -1px rgba(0,0,0,0.75);
+    box-shadow: -1px 3px 7px -1px rgba(0,0,0,0.75);
+    animation-name: fade;
+    animation-duration: 4s;
+    cursor: pointer;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
