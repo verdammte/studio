@@ -1,5 +1,12 @@
+a {
+	color: rgb(23, 23, 23);
+}
+
+a:hover {
+	
+}
+
 article {
-	font-size: 1.05em;
 	color: rgba(0, 0, 0, .6);
 	transition: color .30s ease;
         -moz-transition: color .30s ease;
@@ -11,6 +18,14 @@ article:hover {
 	transition: color .30s ease;
         -moz-transition: color .30s ease;
         -webkit-transition: color .30s ease;
+}
+
+i {
+	color: rgb(51, 51, 51);
+}
+
+i:hover {
+	color: rgb(23, 23, 23);
 }
 
 .enhance {
