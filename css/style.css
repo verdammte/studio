@@ -13,6 +13,22 @@ html, body {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed', GradientType=1 );
 }
 
+.xsPadTop {
+	padding-top: 10px;
+}
+
+.smPadTop {
+	padding-top: 25px;
+}
+
+.mdPadTop {
+	padding-top: 50px;
+}
+
+.lgPadTop {
+	padding-top: 100px;
+}
+
 .swap {
     font-style: italic;
     font-size: 2em;
