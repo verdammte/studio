@@ -1,8 +1,18 @@
 .navbar-brand {
-	  padding: 0px;
-  }
-  .navbar-brand>img {
-	  height: 100%;
-	  padding: 2px;
-	  width: auto;
+	padding: 0px;
+}
+.navbar-brand>img {
+	height: 100%;
+	padding: 2px;
+	width: auto;
+}
+
+.card {
+	height: 30vh;
+	width: 85%;
+	margin: 0 auto;
+	border: 1px solid black;
+	border-radius: 10px;
+	text-align: left;
+	padding: 1%;
 }
